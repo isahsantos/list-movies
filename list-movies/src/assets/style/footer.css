@@ -1,0 +1,38 @@
+  
+.background {
+    width: 100%;
+    height: 150px;
+    background-color: #4EA8DE;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    padding-bottom: 0;
+  }
+.background-text{
+    width: 100%;
+    height: 200px;
+    background-color: #48BFE3;
+    text-align: center;
+    margin-top: 114px;
+    position: relative;
+    margin-bottom: 0;
+      }
+p{
+  padding-top: 34px;
+  align-items: center;
+  line-height: 10px;
+  color:white;
+  margin-top:34px ;
+  margin-left: 386px;
+  padding-bottom: 33px;
+  margin-right: 386px;
+  line-height: 20px;
+  color: ;
+}
+.line{
+margin-top: 100%;
+  width: auto;
+  height: 3px;
+  border: solid 5px #80FFDB;
+  background-color: #80FFDB;
+}
